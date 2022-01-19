@@ -1,0 +1,21 @@
+{
+  "authentionDetails":[
+    {
+      "token": "this_is_a_dummy_token_sha256",
+      "loginDate": "2022/01/22"
+    }
+  ],
+  "authenticatedUser" : [
+    {
+      "userDetails":
+        {
+          "name":"John Doe",
+          "firstName" : "John",
+          "middleName": "",
+          "lastName": "Doe",
+          "age":24
+        }
+    }
+  ]
+  
+}
